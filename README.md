@@ -5,6 +5,11 @@ Tugas Besar Data Mining
 |Prodi | : | Informatika  |
 |Kelas | : | IF 3B Reguler|
 
+| Name  | Age |
+| ----- | --- |
+| Bob   | 27  |
+| Alice | 23  |
+
 ## Nama Kelompok
 1. Ahmad Shobirin      3311901047
 2. Nuzela Rahma Fitra  3311901047
