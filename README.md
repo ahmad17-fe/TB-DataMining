@@ -28,15 +28,15 @@ Tugas Besar Data Mining
     <tbody>
         <tr>
             <td>Ahmad Shobirin</td>
-            <td>3311901047<td>
-        <tr>
+            <td>3311901047</td>
+        </tr>
         <tr>
             <td>Nuzela Rahma Fitra</td>
-            <td>3311901058<td>
-        <tr>
+            <td>3311901058</td>
+        </tr>
         <tr>
             <td>Indah Fauziyyah</td>
-            <td>3311901060<td>
-        <tr>
+            <td>3311901060</td>
+        </tr>
     </tbody>
 </table>
