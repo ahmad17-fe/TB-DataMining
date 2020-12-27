@@ -2,9 +2,8 @@
 Tugas Besar Data Mining
 
 ## Kelas
-Prodi:  Informatika
-
-Kelas:  IF 3B Reguler
+|Prodi | : | Informatika
+|Kelas | : | IF 3B Reguler
 
 ## Nama Kelompok
 1. Ahmad Shobirin      3311901047
