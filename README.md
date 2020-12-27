@@ -18,6 +18,23 @@ Tugas Besar Data Mining
 </table>
 
 ## Nama Kelompok
-1. Ahmad Shobirin      3311901047
-2. Nuzela Rahma Fitra  3311901047
-3. Indah Fauziyyah     3311901060
+<table>
+    <thead>
+        <th>Nama</th>
+        <th>Nim</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ahmad Shobirin</td>
+            <td>3311901047<td>
+        <tr>
+        <tr>
+            <td>Nuzela Rahma Fitra</td>
+            <td>3311901058<td>
+        <tr>
+        <tr>
+            <td>Indah Fauziyyah</td>
+            <td>3311901060<td>
+        <tr>
+    </tbody>
+</table>
