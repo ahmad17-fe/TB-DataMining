@@ -1,5 +1,18 @@
-# TB-DataMining
-Tugas Besar Data Mining
+# Tugas Besar-DataMining
+<table>
+    <tbody>
+        <tr>
+            <td>Mapel</td>
+            <td>:</td>
+            <td>Data Mining</td>
+        </tr>
+        <tr>
+            <td>Dosen</td>
+            <td>:</td>
+            <td>MUHAMMAD NASHRULLAH,SST., M.Sc</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Kelas
 <table>
