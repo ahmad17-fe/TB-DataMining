@@ -2,13 +2,15 @@
 Tugas Besar Data Mining
 
 ## Kelas
+|
+|---
 |Prodi | : | Informatika  |
 |Kelas | : | IF 3B Reguler|
 
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
+|      |   |              |
+| ---- | - | ------------ |
+|Prodi | : | Informatika  |
+|Kelas | : | IF 3B Reguler|
 
 ## Nama Kelompok
 1. Ahmad Shobirin      3311901047
