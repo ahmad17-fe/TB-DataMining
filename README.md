@@ -20,8 +20,10 @@ Tugas Besar Data Mining
 ## Nama Kelompok
 <table>
     <thead>
-        <th>Nama</th>
-        <th>Nim</th>
+        <tr>
+            <th>Nama</th>
+            <th>Nim</th>
+        </tr>
     </thead>
     <tbody>
         <tr>
